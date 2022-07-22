@@ -1,0 +1,12 @@
+{
+  "name": "ScheDo",
+  "displayName": "ScheDo",
+  "expo": {
+    "name": "ScheDo",
+    "slug": "ScheDo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
